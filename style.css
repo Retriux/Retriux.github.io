@@ -68,7 +68,7 @@ a:hover {
 	margin: 0 auto;
 	padding: 60px 0;
 }
-.post-author img, .about-author img{
+.post-author img,.about-author img{
 	border-radius: 50%;
 	width: 100px;
 	height: 100px;
@@ -91,5 +91,5 @@ p {
 	line-height: 1.5;
 }
 .about{
-	text-align: center-block;
+	text-align: center;
 }
