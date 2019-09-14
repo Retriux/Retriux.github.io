@@ -20,6 +20,7 @@ body { color: #555;
 #header-tittle {
 	display: block;
 	float: left;
+        margin-left: 10px;
 	font-size: 20px;
 	font-width: bold;
 }
@@ -44,6 +45,7 @@ body { color: #555;
 	min-width: 300px;
 	display: inline-block;
 	vertical-align: top;
+        margin-left: 20px;
 }
 #footer h4{
 	color: white;
