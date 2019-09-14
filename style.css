@@ -9,7 +9,8 @@ body { color: #555;
 	line-height: 150px;
 }
 #header a{
-	color: white;
+	margin-left: 20px;
+        color: white;
 	text-decoration: none;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
